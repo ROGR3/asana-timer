@@ -1,0 +1,104 @@
+{
+    "name": "Mobility routine",
+    "pauses_between_poses": 2,
+    "description": "A gentle routine focused on improving mobility and flexibility.",
+    "dificulty": "easy",
+    "poses": [
+        {
+            "name": "Child pose",
+            "sanskrit": "Balasana",
+            "time": 50,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Cat-Cow",
+            "sanskrit": "Marjaryasana-Bitilasana",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Cobra pose",
+            "sanskrit": "Bhujangasana",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 20,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Warrior 1",
+            "sanskrit": "Virabhadrasana I",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Warrior 2",
+            "sanskrit": "Virabhadrasana II",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Triangle pose",
+            "sanskrit": "Trikonasana",
+            "time": 20,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Mountain pose",
+            "sanskrit": "Tadasana",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Warrior 1",
+            "sanskrit": "Virabhadrasana I",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Warrior 2",
+            "sanskrit": "Virabhadrasana II",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Triangle pose",
+            "sanskrit": "Trikonasana",
+            "time": 20,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Wide leg forward bend",
+            "sanskrit": "Prasarita Padottanasana",
+            "time": 30,
+            "need_time_to_change_pose": true
+        },
+        {
+            "name": "Bridge pose",
+            "sanskrit": "Setu Bandhasana",
+            "time": 30,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Lying butterfly pose",
+            "sanskrit": "Supta Baddha Konasana",
+            "time": 40,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Supine Twist Left",
+            "sanskrit": "Supta Matsyendrasana",
+            "time": 15,
+            "need_time_to_change_pose": false
+        },
+        {
+            "name": "Supine Twist Right",
+            "sanskrit": "Supta Matsyendrasana",
+            "time": 15,
+            "need_time_to_change_pose": false
+        }
+    ]
+}

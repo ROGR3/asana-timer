@@ -1,0 +1,64 @@
+[tool.poetry]
+name = "tts-test"
+version = "0.1.0"
+description = ""
+authors = ["ROGR3 <atzuki@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+tts = {git = "https://github.com/coqui-ai/TTS"}
+pylint-pydantic = "^0.3.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.isort]
+profile = "black"
+combine_as_imports = "true"
+line_length = 131
+
+[tool.black]
+line-length = 131
+
+[tool.pylint.'MESSAGES CONTROL']
+max-line-length = 131
+disable = [
+    "too-few-public-methods",
+    "missing-module-docstring",
+    "missing-class-docstring",
+    "missing-function-docstring",
+    "broad-exception-caught",
+    "broad-exception-raised",
+    "logging-fstring-interpolation",
+    "logging-not-lazy",
+    "fixme"
+]
+good-names-rgx = ["id", "ad", "maxDiff", "FunctionName", "Payload", "InvocationType"]
+
+[tool.pylint.SIMILARITIES]
+min-similarity-lines = 6
+
+[tool.pylint.DESIGN]
+max-attributes = 10
+
+[tool.pylint.MASTER]
+load-plugins = ["pylint_pydantic"]
+extension-pkg-whitelist = "pydantic"
+
+[tool.pylint.'MESSAGES CONTROL.test.*']
+disable = [
+    "too-many-public-methods", 
+    "too-many-arguments"
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+
+[tool.mypy]
+exclude = ["build"]
+explicit_package_bases = "true"
+strict = "true"
+plugins = ["pydantic.mypy"]
