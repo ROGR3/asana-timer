@@ -1,0 +1,73 @@
+{
+    "name": "Headstand Preparation Routine",
+    "description": "A routine focusing on mobility and strength used mostly in a supported headstand.",
+    "pauses_between_poses": 2,
+    "difficulty": "medium",
+    "poses": [
+        {
+            "name": "Cat-Cow Stretch",
+            "sanskrit": "Marjaryasana-Bitilasana",
+            "time": 60
+        },
+        {
+            "name": "Child's Pose",
+            "sanskrit": "Balasana",
+            "time": 30
+        },
+        {
+            "name": "Dolphin Pose",
+            "sanskrit": "Ardha Pincha Mayurasana",
+            "time": 30
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 30
+        },
+        {
+            "name": "Puppy Pose",
+            "sanskrit": "Dhanurasana",
+            "time": 30
+        },
+        {
+            "name": "Side Plank (right side)",
+            "sanskrit": "Vasisthasana",
+            "time": 30
+        },
+        {
+            "name": "Side Plank (left side)",
+            "sanskrit": "Vasisthasana",
+            "time": 30
+        },
+        {
+            "name": "Thread the Needle pose (Left Side)",
+            "sanskrit": "Parsva Balasana",
+            "time": 30
+        },
+        {
+            "name": "Thread the Needle pose (Right Side)",
+            "sanskrit": "Parsva Balasana",
+            "time": 30
+        },
+        {
+            "name": "Forearm Plank",
+            "sanskrit": "Makara Mukha Svanasana",
+            "time": 30
+        },
+        {
+            "name": "Dolphin Pose",
+            "sanskrit": "Ardha Pincha Mayurasana",
+            "time": 30
+        },
+        {
+            "name": "Child's Pose",
+            "sanskrit": "Balasana",
+            "time": 30
+        },
+        {
+            "name": "Corpse Pose",
+            "sanskrit": "Savasana",
+            "time": 60
+        }
+    ]
+}

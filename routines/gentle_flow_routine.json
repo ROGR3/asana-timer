@@ -1,11 +1,11 @@
 {
-    "name": "Mobility routine",
+    "name": "Gentle Flow Routine",
     "pauses_between_poses": 2,
-    "description": "A gentle routine focused on improving mobility and flexibility.",
+    "description": "A gentle flow that enhances mobility and incorporates new poses to deepen your practice.",
     "difficulty": "easy",
     "poses": [
         {
-            "name": "Child pose",
+            "name": "Child Pose",
             "sanskrit": "Balasana",
             "time": 50
         },
@@ -15,7 +15,12 @@
             "time": 30
         },
         {
-            "name": "Cobra pose",
+            "name": "Thread the Needle",
+            "sanskrit": "Parsva Balasana",
+            "time": 30
+        },
+        {
+            "name": "Cobra Pose",
             "sanskrit": "Bhujangasana",
             "time": 30
         },
@@ -30,44 +35,18 @@
             "time": 30
         },
         {
-            "name": "Warrior 2",
-            "sanskrit": "Virabhadrasana II",
+            "name": "Extended Side Angle",
+            "sanskrit": "Utthita Parsvakonasana",
             "time": 30
         },
         {
-            "name": "Triangle pose",
-            "sanskrit": "Trikonasana",
-            "time": 20
-        },
-        {
-            "name": "Mountain pose",
+            "name": "Mountain Pose",
             "sanskrit": "Tadasana",
             "time": 30,
             "time_to_prepare_next_pose": 3
         },
         {
-            "name": "Warrior 1",
-            "sanskrit": "Virabhadrasana I",
-            "time": 30
-        },
-        {
-            "name": "Warrior 2",
-            "sanskrit": "Virabhadrasana II",
-            "time": 30
-        },
-        {
-            "name": "Triangle pose",
-            "sanskrit": "Trikonasana",
-            "time": 20
-        },
-        {
-            "name": "Wide leg forward bend",
-            "sanskrit": "Prasarita Padottanasana",
-            "time": 30,
-            "time_to_prepare_next_pose": 5
-        },
-        {
-            "name": "Bridge pose",
+            "name": "Bridge Pose",
             "sanskrit": "Setu Bandhasana",
             "time": 30
         },

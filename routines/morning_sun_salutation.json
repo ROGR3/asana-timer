@@ -1,0 +1,65 @@
+{
+    "name": "Morning Sun Salutation Routine",
+    "pauses_between_poses": 1,
+    "description": "A refreshing morning routine to awaken the body and mind through a series of Sun Salutations.",
+    "difficulty": "easy",
+    "poses": [
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 15
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 15,
+            "time_to_prepare_next_pose": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 15
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 10
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 15
+        },
+        {
+            "name": "Chaturanga Dandasana",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 10
+        },
+        {
+            "name": "Cobra Pose",
+            "sanskrit": "Bhujangasana",
+            "time": 15
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 15
+        },
+        {
+            "name": "Step Forward to Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 15,
+            "time_to_prepare_next_pose": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 15
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 15
+        }
+    ]
+}

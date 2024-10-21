@@ -1,0 +1,38 @@
+{
+    "name": "Crow Pose Preparation Routine",
+    "pauses_between_poses": 2,
+    "description": "A short routine designed to warm up the wrists and build strength for mastering the Crow Pose.",
+    "difficulty": "easy",
+    "poses": [
+        {
+            "name": "Wrist Flexor Stretch",
+            "sanskrit": "",
+            "time": 30
+        },
+        {
+            "name": "Tabletop Position",
+            "sanskrit": "Bharmanasana",
+            "time": 30
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 30
+        },
+        {
+            "name": "Chair Pose",
+            "sanskrit": "Utkatasana",
+            "time": 30
+        },
+        {
+            "name": "Crow Pose",
+            "sanskrit": "Bakasana",
+            "time": 30
+        },
+        {
+            "name": "Child Pose",
+            "sanskrit": "Balasana",
+            "time": 30
+        }
+    ]
+}

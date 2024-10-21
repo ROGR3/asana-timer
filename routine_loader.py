@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from enum import Enum
 import json
 import os
+from typing import Optional
 
 
 class Difficulty(str, Enum):
@@ -15,7 +16,7 @@ class YogaRoutine:
     name: str
     description: str
     pauses_between_poses: int
-    dificulty: Difficulty
+    difficulty: Difficulty
     poses: list["YogaPose"]
 
     @property
@@ -30,7 +31,7 @@ class YogaPose:
     name: str
     sanskrit: str
     time: int
-    need_time_to_change_pose: str
+    time_to_prepare_next_pose: Optional[int] = None
 
 
 class RoutineLoader:
@@ -54,7 +55,7 @@ class RoutineLoader:
                         description=json_data["description"],
                         pauses_between_poses=json_data["pauses_between_poses"],
                         poses=[YogaPose(**pose) for pose in json_data["poses"]],
-                        dificulty=Difficulty(json_data["dificulty"]),
+                        difficulty=Difficulty(json_data["difficulty"]),
                     )
                 )
 

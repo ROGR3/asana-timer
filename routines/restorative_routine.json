@@ -1,0 +1,53 @@
+{
+    "name": "Restorative Routine for Cold",
+    "pauses_between_poses": 3,
+    "description": "A gentle restorative routine to help open the chest, relax the body, and support the immune system during a cold.",
+    "difficulty": "easy",
+    "poses": [
+        {
+            "name": "Supported Child's Pose",
+            "sanskrit": "Salamba Balasana",
+            "time": 60
+        },
+        {
+            "name": "Seated Forward Bend",
+            "sanskrit": "Paschimottanasana",
+            "time": 45
+        },
+        {
+            "name": "Reclining Bound Angle Pose",
+            "sanskrit": "Supta Baddha Konasana",
+            "time": 60
+        },
+        {
+            "name": "Legs Up the Wall",
+            "sanskrit": "Viparita Karani",
+            "time": 60
+        },
+        {
+            "name": "Bridge Pose",
+            "sanskrit": "Setu Bandhasana",
+            "time": 30
+        },
+        {
+            "name": "Supported Fish Pose",
+            "sanskrit": "Salamba Matsyasana",
+            "time": 60
+        },
+        {
+            "name": "Supine Twist Left",
+            "sanskrit": "Supta Matsyendrasana",
+            "time": 45
+        },
+        {
+            "name": "Supine Twist Right",
+            "sanskrit": "Supta Matsyendrasana",
+            "time": 45
+        },
+        {
+            "name": "Corpse Pose",
+            "sanskrit": "Savasana",
+            "time": 120
+        }
+    ]
+}
