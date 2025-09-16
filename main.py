@@ -42,15 +42,21 @@ def main() -> None:
     speaker.speak("Let's begin the session.")
 
     for idx, pose in enumerate(yoga_routine.poses):
-        speaker.speak(f"{pose.name} - {pose.sanskrit}")
-        time.sleep(pose.time - SECONDS_TO_ANNOUNCE_BEFORE_END)
-        for i in range(SECONDS_TO_ANNOUNCE_BEFORE_END, 0, -1):
-            speaker.speak(f"{convert_number_to_countdown_string(i)}.")
+        if yoga_routine.pauses_between_poses != 0 and pose.time > SECONDS_TO_ANNOUNCE_BEFORE_END:
+            speaker.speak(f"{pose.name} - {pose.sanskrit}")
+            time.sleep(pose.time - SECONDS_TO_ANNOUNCE_BEFORE_END)
+            for i in range(SECONDS_TO_ANNOUNCE_BEFORE_END, 0, -1):
+                speaker.speak(f"{convert_number_to_countdown_string(i)}.")
 
-        if idx < len(yoga_routine.poses) - 1:
-            speaker.speak(get_random_end_of_pose_phrase(yoga_routine.poses[idx + 1].name))
-
-        time.sleep(yoga_routine.pauses_between_poses)
+            if idx < len(yoga_routine.poses) - 1:
+                speaker.speak(get_random_end_of_pose_phrase(yoga_routine.poses[idx + 1].name))
+                time.sleep(yoga_routine.pauses_between_poses)
+        else:
+            speaker.speak(f"{pose.name}")
+            if pose.time - SECONDS_TO_ANNOUNCE_BEFORE_END > 0:
+                time.sleep(pose.time - SECONDS_TO_ANNOUNCE_BEFORE_END)
+            for i in range(min(SECONDS_TO_ANNOUNCE_BEFORE_END, pose.time), 0, -1):
+                speaker.speak(f"{convert_number_to_countdown_string(i)}.")
 
     speaker.speak(get_random_end_of_routine_phrase())
     print("Yoga session completed.")

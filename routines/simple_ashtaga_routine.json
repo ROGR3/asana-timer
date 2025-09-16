@@ -1,0 +1,308 @@
+{
+    "name": "Simple Ashtaga Routine",
+    "description": "A simple routine that builds strength and flexibility through a series of poses.",
+    "pauses_between_poses": 0,
+    "difficulty": "easy",
+    "poses": [
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 2
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 2
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 10
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 2
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 2
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 10
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 2
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 2
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 10
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 2
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 2
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 10
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Plank Pose",
+            "sanskrit": "Phalakasana",
+            "time": 2
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 2
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 10
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        }
+    ]
+}

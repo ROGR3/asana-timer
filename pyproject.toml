@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "tts-test"
+name = "asana-timer"
 version = "0.1.0"
 description = ""
 authors = ["ROGR3 <atzuki@protonmail.com>"]

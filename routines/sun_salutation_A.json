@@ -1,65 +1,68 @@
 {
-    "name": "Morning Sun Salutation Routine",
-    "pauses_between_poses": 1,
-    "description": "A refreshing morning routine to awaken the body and mind through a series of Sun Salutations.",
+    "name": "Sun Salutation A",
+    "description": "A dynamic and energizing sequence to start the day.",
+    "pauses_between_poses": 0,
     "difficulty": "easy",
     "poses": [
         {
             "name": "Mountain Pose",
             "sanskrit": "Tadasana",
-            "time": 15
+            "time": 2
         },
         {
             "name": "Upward Salute",
             "sanskrit": "Urdhva Hastasana",
-            "time": 15,
-            "time_to_prepare_next_pose": 2
+            "time": 2
         },
         {
             "name": "Forward Fold",
             "sanskrit": "Uttanasana",
-            "time": 15
+            "time": 2
         },
         {
             "name": "Halfway Lift",
             "sanskrit": "Ardha Uttanasana",
-            "time": 10
+            "time": 2
         },
         {
             "name": "Plank Pose",
             "sanskrit": "Phalakasana",
-            "time": 15
+            "time": 2
         },
         {
-            "name": "Chaturanga Dandasana",
+            "name": "Four-Limbed Staff Pose",
             "sanskrit": "Chaturanga Dandasana",
-            "time": 10
+            "time": 2
         },
         {
-            "name": "Cobra Pose",
-            "sanskrit": "Bhujangasana",
-            "time": 15
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
         },
         {
             "name": "Downward-Facing Dog",
             "sanskrit": "Adho Mukha Svanasana",
-            "time": 15
+            "time": 10
         },
         {
-            "name": "Step Forward to Forward Fold",
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
             "sanskrit": "Uttanasana",
-            "time": 15,
-            "time_to_prepare_next_pose": 2
+            "time": 2
         },
         {
             "name": "Upward Salute",
             "sanskrit": "Urdhva Hastasana",
-            "time": 15
+            "time": 2
         },
         {
             "name": "Mountain Pose",
             "sanskrit": "Tadasana",
-            "time": 15
+            "time": 2
         }
     ]
 }

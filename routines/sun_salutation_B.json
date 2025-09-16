@@ -1,0 +1,103 @@
+{
+    "name": "Sun Salutation B",
+    "description": "A more advanced variation of the Sun Salutation, focusing on strength and flexibility, incorporating Warrior poses.",
+    "pauses_between_poses": 0,
+    "difficulty": "medium",
+    "poses": [
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 3
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 3
+        },
+        {
+            "name": "Warrior I (right leg forward)",
+            "sanskrit": "Virabhadrasana I",
+            "time": 3
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 3
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 3
+        },
+        {
+            "name": "Warrior I (left leg forward)",
+            "sanskrit": "Virabhadrasana I",
+            "time": 3
+        },
+        {
+            "name": "Four-Limbed Staff Pose",
+            "sanskrit": "Chaturanga Dandasana",
+            "time": 3
+        },
+        {
+            "name": "Upward-Facing Dog",
+            "sanskrit": "Urdhva Mukha Svanasana",
+            "time": 2
+        },
+        {
+            "name": "Downward-Facing Dog",
+            "sanskrit": "Adho Mukha Svanasana",
+            "time": 10
+        },
+        {
+            "name": "Halfway Lift",
+            "sanskrit": "Ardha Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Forward Fold",
+            "sanskrit": "Uttanasana",
+            "time": 2
+        },
+        {
+            "name": "Upward Salute",
+            "sanskrit": "Urdhva Hastasana",
+            "time": 2
+        },
+        {
+            "name": "Mountain Pose",
+            "sanskrit": "Tadasana",
+            "time": 2
+        }
+    ]
+}
